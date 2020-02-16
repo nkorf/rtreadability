@@ -1,7 +1,7 @@
 # Readability metrics on Financial Reports
 
 This is a public repository containing readability metrics calculated on 10-K and 10-Q for Fortune 500 Companies ranging from 
-2009 to 2019.
+2009 to 2019. 
 
 For each company the following readability metrics have been calculated 
 
